@@ -29,10 +29,10 @@ function preserveDecimal(a){
   return a;
 }
 function makeInt(b){
-  parseInt('b', 10);
+  parseInt(b, 10);
   return b;
 }
 function preserveDecimal(b){
-  parseFloat('b');
+  parseFloat(b);
   return b;
 }
